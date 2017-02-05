@@ -14,4 +14,6 @@ branch.
 
 ##Talks##
 
+[Why Aren't You Using Composer Already!?!](http://bradley.wogsland.org/computing/php/composer_talk_20160209.pdf) - Nashville PHP, Feb 9th, 2016
+
 [Learning Multiple Languages](Multiple-Languages.md) (DEVit 2017)
