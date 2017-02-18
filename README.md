@@ -14,4 +14,6 @@ branch.
 
 ##Talks##
 
+[Functional PHP](http://bradley.wogsland.org/computing/php/functional_php_talk_20170214.pdf) - Nashville PHP, Feb 14th, 2017
+
 [Why Aren't You Using Composer Already!?!](http://bradley.wogsland.org/computing/php/composer_talk_20160209.pdf) - Nashville PHP, Feb 9th, 2016
