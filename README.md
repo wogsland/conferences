@@ -1,4 +1,4 @@
-#CoNfErEnCeS#
+# CoNfErEnCeS #
 
 I want to get better at submitting CFPs.
 
@@ -12,7 +12,7 @@ branch.
 
 [Bio](bio.md)
 
-##Talks##
+## Talks ##
 
 [Functional PHP](http://bradley.wogsland.org/computing/php/functional_php_talk_20170214.pdf) - Nashville PHP, Feb 14th, 2017
 
